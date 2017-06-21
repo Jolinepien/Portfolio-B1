@@ -1,0 +1,74 @@
+<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="jolinefrens.nl" resolutions="1x" timestamp="1498065549164">
+  <folder name="css">
+    <file name="site_global.css" crc="210419444"/>
+    <file name="master_a-master.css" crc="125892429" ref="expertise-areas:past:vision:identity---vision:index:project-1:professional-skills:future:present:design-research-process:identity:overall-growth"/>
+    <file name="expertise-areas.css" crc="3811650068" ref="expertise-areas"/>
+    <file name="past.css" crc="186198087" ref="past"/>
+    <file name="vision.css" crc="363623025" ref="vision"/>
+    <file name="identity---vision.css" crc="434604689" ref="identity---vision"/>
+    <file name="index.css" crc="239964487" ref="index"/>
+    <file name="project-1.css" crc="517836095" ref="project-1"/>
+    <file name="professional-skills.css" crc="478046378" ref="professional-skills"/>
+    <file name="future.css" crc="240472212" ref="future"/>
+    <file name="present.css" crc="148534566" ref="present"/>
+    <file name="design-research-process.css" crc="3758329204" ref="design-research-process"/>
+    <file name="identity.css" crc="4043806463" ref="identity"/>
+    <file name="overall-growth.css" crc="4278888443" ref="overall-growth"/>
+  </folder>
+  <folder name="assets">
+    <file name="pdp-joline-frens.pdf" crc="357147944" seo="true" mt="1497803100000"/>
+    <file name="dpb100---report-group-4.pdf" crc="3806713258" seo="true" mt="1497816179000"/>
+    <file name="dpb100---report-group-42.pdf" crc="3806713258" seo="true" mt="1497816179000"/>
+    <file name="joline-frens.pdf" crc="4258091496" seo="true" mt="1497986340000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:vision:identity:past:future:present:expertise-areas:design-research-process:identity---vision:professional-skills:overall-growth:project-1"/>
+    <file name="museutils.js" crc="4148063285" ref="index:vision:identity:past:future:present:expertise-areas:design-research-process:identity---vision:professional-skills:overall-growth:project-1"/>
+    <file name="whatinput.js" crc="86476730" ref="index:vision:identity:past:future:present:expertise-areas:design-research-process:identity---vision:professional-skills:overall-growth:project-1"/>
+    <file name="museconfig.js" crc="172512987" ref="index:vision:identity:past:future:present:expertise-areas:design-research-process:identity---vision:professional-skills:overall-growth:project-1"/>
+    <file name="jquery.musemenu.js" crc="3765830709" ref="index:vision:identity:past:future:present:expertise-areas:design-research-process:identity---vision:professional-skills:overall-growth:project-1"/>
+    <file name="jquery.watch.js" crc="437028206" ref="index:vision:identity:past:future:present:expertise-areas:design-research-process:identity---vision:professional-skills:overall-growth:project-1"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:vision:identity:past:future:present:expertise-areas:design-research-process:identity---vision:professional-skills:overall-growth:project-1"/>
+    <file name="require.js" crc="4159430777" ref="index:vision:identity:past:future:present:expertise-areas:design-research-process:identity---vision:professional-skills:overall-growth:project-1"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="440220466" ref="index"/>
+    <file name="personal logo_poster_.png" crc="3872535686" seo="true" ref="index:vision:identity:past:future:present:expertise-areas:design-research-process:identity---vision:professional-skills:overall-growth:project-1"/>
+    <file name="me-crop-u1316.png" crc="4019963301" ref="index"/>
+    <file name="vision world-crop-u1276.png" crc="366495880" ref="vision"/>
+    <file name="vision designer-crop-u1289.png" crc="82909640" ref="vision"/>
+    <file name="desired-idenitity.svg" crc="4199116629" seo="true" ref="identity"/>
+    <file name="desired idenitity_poster_.png" crc="182990612" ref="identity"/>
+    <file name="current-identitiy.svg" crc="4065418012" seo="true" ref="identity"/>
+    <file name="current identitiy_poster_.png" crc="3834770983" ref="identity"/>
+    <file name="young me-crop-u2773.png" crc="4094030645" ref="past"/>
+    <file name="future me-crop-u3450.png" crc="25526525" ref="future"/>
+    <file name="present me-crop-u2936.png" crc="4198138311" ref="present"/>
+    <file name="sketch cudly toy.png" crc="4254599091" seo="true" ref="expertise-areas"/>
+    <file name="sketch cudly toy-crop-u4015.png" crc="3795225976" ref="expertise-areas"/>
+    <file name="color weel-crop-u3516.png" crc="383274241" ref="expertise-areas"/>
+    <file name="color weel-crop-u4048.png" crc="204250563" ref="expertise-areas"/>
+    <file name="tehcnology and realization-crop-u4058.png" crc="3957448461" ref="expertise-areas"/>
+    <file name="tehcnology and realization-crop-u4071.png" crc="347670346" ref="expertise-areas"/>
+    <file name="math data and computing-crop-u4081.jpg" crc="3900248286" ref="expertise-areas"/>
+    <file name="value framework 2.png" crc="3923007705" seo="true" ref="expertise-areas"/>
+    <file name="value framework 2-crop-u4107.png" crc="376208344" ref="expertise-areas"/>
+    <file name="design research.png" crc="266738171" seo="true" ref="design-research-process"/>
+    <file name="vision and idenity-crop-u3650.png" crc="3979764850" ref="identity---vision"/>
+    <file name="prof skills-crop-u3599.png" crc="3855744238" ref="professional-skills"/>
+    <file name="growth-crop-u3667.png" crc="328861913" ref="overall-growth"/>
+    <file name="cycle black 3-crop-u4563.png" crc="4005654027" ref="project-1"/>
+  </folder>
+  <file name="index.html" crc="337253844" seo="true" mt="1498054831419" redirect="true"/>
+  <file name="vision.html" crc="4210036808" seo="true" mt="1498047900937" redirect="true"/>
+  <file name="identity.html" crc="4103735563" seo="true" mt="1498047900937" redirect="true"/>
+  <file name="past.html" crc="401371919" seo="true" mt="1498047900937" redirect="true"/>
+  <file name="future.html" crc="3846059222" seo="true" mt="1498055151965" redirect="true"/>
+  <file name="present.html" crc="4234320766" seo="true" mt="1498054129278" redirect="true"/>
+  <file name="expertise-areas.html" crc="4136354921" seo="true" mt="1498047900937" redirect="true"/>
+  <file name="design-research-process.html" crc="294239784" seo="true" mt="1498047900937" redirect="true"/>
+  <file name="identity---vision.html" crc="4034084906" seo="true" mt="1498047900937" redirect="true"/>
+  <file name="professional-skills.html" crc="38655536" seo="true" mt="1498064958219" redirect="true"/>
+  <file name="overall-growth.html" crc="530705623" seo="true" mt="1498054651866" redirect="true"/>
+  <file name="project-1.html" crc="3995094442" seo="true" mt="1498058493646" redirect="true"/>
+</manifest>
