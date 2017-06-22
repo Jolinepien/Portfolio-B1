@@ -1,18 +1,18 @@
-<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="jolinefrens.nl" resolutions="1x" timestamp="1498065549164">
+<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="jolinefrens.com" resolutions="1x" timestamp="1498125216907">
   <folder name="css">
     <file name="site_global.css" crc="210419444"/>
     <file name="master_a-master.css" crc="125892429" ref="expertise-areas:past:vision:identity---vision:index:project-1:professional-skills:future:present:design-research-process:identity:overall-growth"/>
     <file name="expertise-areas.css" crc="3811650068" ref="expertise-areas"/>
     <file name="past.css" crc="186198087" ref="past"/>
-    <file name="vision.css" crc="363623025" ref="vision"/>
+    <file name="vision.css" crc="4194857793" ref="vision"/>
     <file name="identity---vision.css" crc="434604689" ref="identity---vision"/>
-    <file name="index.css" crc="239964487" ref="index"/>
-    <file name="project-1.css" crc="517836095" ref="project-1"/>
-    <file name="professional-skills.css" crc="478046378" ref="professional-skills"/>
-    <file name="future.css" crc="240472212" ref="future"/>
+    <file name="index.css" crc="3901882526" ref="index"/>
+    <file name="project-1.css" crc="336342195" ref="project-1"/>
+    <file name="professional-skills.css" crc="4084965532" ref="professional-skills"/>
+    <file name="future.css" crc="160600296" ref="future"/>
     <file name="present.css" crc="148534566" ref="present"/>
     <file name="design-research-process.css" crc="3758329204" ref="design-research-process"/>
-    <file name="identity.css" crc="4043806463" ref="identity"/>
+    <file name="identity.css" crc="3953394834" ref="identity"/>
     <file name="overall-growth.css" crc="4278888443" ref="overall-growth"/>
   </folder>
   <folder name="assets">
@@ -57,18 +57,18 @@
     <file name="vision and idenity-crop-u3650.png" crc="3979764850" ref="identity---vision"/>
     <file name="prof skills-crop-u3599.png" crc="3855744238" ref="professional-skills"/>
     <file name="growth-crop-u3667.png" crc="328861913" ref="overall-growth"/>
-    <file name="cycle black 3-crop-u4563.png" crc="4005654027" ref="project-1"/>
+    <file name="cycle black 3-crop-u4563.png" crc="321549749" ref="project-1"/>
   </folder>
-  <file name="index.html" crc="337253844" seo="true" mt="1498054831419" redirect="true"/>
-  <file name="vision.html" crc="4210036808" seo="true" mt="1498047900937" redirect="true"/>
-  <file name="identity.html" crc="4103735563" seo="true" mt="1498047900937" redirect="true"/>
+  <file name="index.html" crc="434968971" seo="true" mt="1498123930753" redirect="true"/>
+  <file name="vision.html" crc="4075457098" seo="true" mt="1498123979488" redirect="true"/>
+  <file name="identity.html" crc="3767725260" seo="true" mt="1498124150026" redirect="true"/>
   <file name="past.html" crc="401371919" seo="true" mt="1498047900937" redirect="true"/>
-  <file name="future.html" crc="3846059222" seo="true" mt="1498055151965" redirect="true"/>
-  <file name="present.html" crc="4234320766" seo="true" mt="1498054129278" redirect="true"/>
-  <file name="expertise-areas.html" crc="4136354921" seo="true" mt="1498047900937" redirect="true"/>
+  <file name="future.html" crc="284361797" seo="true" mt="1498124904469" redirect="true"/>
+  <file name="present.html" crc="3956320280" seo="true" mt="1498124294631" redirect="true"/>
+  <file name="expertise-areas.html" crc="4026932465" seo="true" mt="1498124507933" redirect="true"/>
   <file name="design-research-process.html" crc="294239784" seo="true" mt="1498047900937" redirect="true"/>
-  <file name="identity---vision.html" crc="4034084906" seo="true" mt="1498047900937" redirect="true"/>
-  <file name="professional-skills.html" crc="38655536" seo="true" mt="1498064958219" redirect="true"/>
-  <file name="overall-growth.html" crc="530705623" seo="true" mt="1498054651866" redirect="true"/>
-  <file name="project-1.html" crc="3995094442" seo="true" mt="1498058493646" redirect="true"/>
+  <file name="identity---vision.html" crc="4290739269" seo="true" mt="1498124654795" redirect="true"/>
+  <file name="professional-skills.html" crc="500020007" seo="true" mt="1498124615557" redirect="true"/>
+  <file name="overall-growth.html" crc="158265185" seo="true" mt="1498124790880" redirect="true"/>
+  <file name="project-1.html" crc="122072497" seo="true" mt="1498125042963" redirect="true"/>
 </manifest>
